@@ -18,7 +18,7 @@ Web geliştirme ve backend teknolojileri üzerinde çalışan, ve yeni şeyler �
 ## 🔧 Kullandığım Teknolojiler
 **Backend:** C#, ASP.NET Core, Entity Framework Core  
 **Frontend:** JavaScript, HTML, CSS, Bootstrap/Tailwind  
-**Database:** MSSQL
+**Database:** MSSQL  
 **Algoritmik Ticaret:** **MQL4**, **MQL5**  
 **Araçlar:** Git, GitHub, Postman, Visual Studio, VS Code 
 
