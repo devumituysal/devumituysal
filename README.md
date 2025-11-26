@@ -38,14 +38,3 @@ This profile is designed to share the projects I've created with the technologie
 
 ---
 
-## 🔧 Badges & Highlights
-
-**Technologies & Skills** 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MQL4](https://img.shields.io/badge/MQL4-blue?style=for-the-badge)
-![MQL5](https://img.shields.io/badge/MQL5-orange?style=for-the-badge)
-![MSSQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-
