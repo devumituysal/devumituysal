@@ -1,5 +1,7 @@
 # 👋 Hi, I'm **Ümit Uysal**
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi!+I'm+Ümit+Uysal;Backend+Developer;MQL4+%26+MQL5+Trader)
+
 I'm a developer focused on web development and backend technologies, always eager to learn new things.  
 Currently, I mainly work with **ASP.NET Core**, **C#**, **JavaScript**, **HTML/CSS**, and modern web architectures.
 
