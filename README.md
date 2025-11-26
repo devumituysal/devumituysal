@@ -33,15 +33,23 @@ Web geliştirme ve backend teknolojileri üzerinde çalışan, ve yeni şeyler �
 ## 🙌 Küçük Not
 Bu profil, öğrendiğim teknolojilerle oluşturduğum projeleri paylaşmak, gelişimimi kayıt altına almak ve yeni şeyler öğrenirken deneyimlerimi göstermek için hazırlanmıştır.
 
-![Umit's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutxyp&show_icons=true&theme=tokyonight) 
+# 📊 GitHub İstatistikleri & Rozetler
 
+<!-- GitHub genel istatistik kartı -->
+![Umit's GitHub stats](https://github-readme-stats.vercel.app/api?username=devumituysal&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umutxyp&layout=compact&theme=tokyonight) 
+<!-- En çok kullanılan diller -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devumituysal&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=umutxyp&theme=tokyonight) 
+<!-- GitHub streak (art arda katkı) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=devumituysal&theme=tokyonight)
 
-<img src="https://komarev.com/ghpvc/?username=umutxyp&label=PROFILE+VIEWS&color=blueviolet&style=flat" />
+<!-- Profil görüntülenme sayacı -->
+<img src="https://komarev.com/ghpvc/?username=devumituysal&label=PROFILE+VIEWS&color=blueviolet&style=flat" />
 
+<!-- GitHub Trophy -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=devumituysal&theme=onestar&margin-w=15)
 
-![snake gif](https://github.com/umutxyp/umutxyp/blob/output/github-contribution-grid-snake.svg)
+<!-- Typing effect -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hoş+Geldiniz!;Ben+Ümit+Uysal;Backend+Developer;Algoritmik+Ticaret+Bot+Geliştirici)
 
