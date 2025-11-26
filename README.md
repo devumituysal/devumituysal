@@ -36,13 +36,16 @@ Bu profil, öğrendiğim teknolojilerle oluşturduğum projeleri paylaşmak, gel
 # 📊 GitHub İstatistikleri & Rozetler
 
 <!-- GitHub genel istatistik kartı -->
-![Umit's GitHub stats](https://github-readme-stats.vercel.app/api?username=devumituysal&show_icons=true&theme=tokyonight)
+![Umit's GitHub stats](https://github-readme-stats-git-masterorgn.vercel.app/api?username=devumituysal&show_icons=true&theme=tokyonight) 
+ 
 
 <!-- En çok kullanılan diller -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devumituysal&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-masterorgn.vercel.app/api/top-langs/?username=devumituysal&layout=compact&theme=tokyonight) 
+
 
 <!-- GitHub streak (art arda katkı) -->
-![GitHub Streak](https://streak-stats.demolab.com?user=devumituysal&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=devumituysal&theme=tokyonight&hide_border=false) 
+
 
 <!-- Profil görüntülenme sayacı -->
 <img src="https://komarev.com/ghpvc/?username=devumituysal&label=PROFILE+VIEWS&color=blueviolet&style=flat" />
