@@ -32,3 +32,16 @@ Web geliştirme ve backend teknolojileri üzerinde çalışan, ve yeni şeyler �
 
 ## 🙌 Küçük Not
 Bu profil, öğrendiğim teknolojilerle oluşturduğum projeleri paylaşmak, gelişimimi kayıt altına almak ve yeni şeyler öğrenirken deneyimlerimi göstermek için hazırlanmıştır.
+
+![Umit's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutxyp&show_icons=true&theme=tokyonight) 
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umutxyp&layout=compact&theme=tokyonight) 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=umutxyp&theme=tokyonight) 
+
+<img src="https://komarev.com/ghpvc/?username=umutxyp&label=PROFILE+VIEWS&color=blueviolet&style=flat" />
+
+
+![snake gif](https://github.com/umutxyp/umutxyp/blob/output/github-contribution-grid-snake.svg)
+
