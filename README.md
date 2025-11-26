@@ -1,61 +1,51 @@
-# 👋 Merhaba, ben **Ümit Uysal**
+# 👋 Hi, I'm **Ümit Uysal**
 
-Web geliştirme ve backend teknolojileri üzerinde çalışan, ve yeni şeyler öğrenmeyi seven bir geliştiriciyim. Şu sıralar ağırlıklı olarak **ASP.NET Core**, **C#**, **JavaScript**, **HTML/CSS** ve modern web mimarileri ile projeler geliştiriyorum.
+I'm a developer focused on web development and backend technologies, always eager to learn new things.  
+Currently, I mainly work with **ASP.NET Core**, **C#**, **JavaScript**, **HTML/CSS**, and modern web architectures.
 
 ---
 
-## 🚀 İlgi Alanlarım
-- 💻 Web Uygulamaları Geliştirme  
+## 🚀 Interests
+- 💻 Web Application Development  
 - 🏗️ ASP.NET Core Web API  
-- 🗄️ Veritabanı Tasarımı & ORM (EF Core)  
-- ⚙️ Yazılım mimarisi (Clean Architecture, Repository Pattern vb.)  
-- 🤖 **MQL4 & MQL5 ile algoritmik ticaret / otomatik trade botları geliştirme**  
-- 🎮 HTML/CSS/JS ile mini oyunlar geliştirme  
-- 📚 Yeni teknolojiler ve tasarım prensiplerini öğrenme  
+- 🗄️ Database Design & ORM (EF Core)  
+- ⚙️ Software Architecture (Clean Architecture, Repository Pattern, etc.)  
+- 🤖 Developing automated trading bots with **MQL4 & MQL5**  
+- 🎮 Creating mini games with HTML/CSS/JS  
+- 📚 Learning new technologies and design principles  
 
 ---
 
-## 🔧 Kullandığım Teknolojiler
-**Backend:** C#, ASP.NET Core, Entity Framework Core  
-**Frontend:** JavaScript, HTML, CSS, Bootstrap  
-**Database:** MSSQL  
-**Algoritmik Ticaret:** **MQL4**, **MQL5**  
-**Araçlar:** Git, GitHub, Postman, Visual Studio, VS Code 
+## 🔧 Technologies
+- **Backend:** C#, ASP.NET Core, Entity Framework Core  
+- **Frontend:** JavaScript, HTML, CSS, Bootstrap  
+- **Database:** MSSQL  
+- **Algorithmic Trading:** MQL4, MQL5  
+- **Tools:** Git, GitHub, Postman, Visual Studio, VS Code  
 
 ---
 
-## 📫 Bana Ulaşın
+## 📫 Contact Me
 - 🎯 LinkedIn:  https://www.linkedin.com/in/mustafa-ümit-uysal-955679353/
 - 📧 E-posta:  dev.umituysal@gmail.com
 
 ---
 
-## 🙌 Küçük Not
-Bu profil, öğrendiğim teknolojilerle oluşturduğum projeleri paylaşmak, gelişimimi kayıt altına almak ve yeni şeyler öğrenirken deneyimlerimi göstermek için hazırlanmıştır.
+## 🙌 Note
+This profile is designed to share the projects I've created with the technologies I've learned, track my growth, and showcase my experiences while learning new things.
 
-# 📊 GitHub İstatistikleri & Rozetler
+---
 
-<!-- GitHub genel istatistik kartı -->
-![Umit's GitHub stats](https://camo.githubusercontent.com/ghstats?username=devumituysal)
+## 🔧 Badges & Highlights
 
- 
+**Technologies & Skills**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MQL4](https://img.shields.io/badge/MQL4-blue?style=for-the-badge)
+![MQL5](https://img.shields.io/badge/MQL5-orange?style=for-the-badge)
+![MSSQL](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-<!-- En çok kullanılan diller -->
-![Top Languages](https://camo.githubusercontent.com/toplangs?username=devumituysal)
-
-
-
-<!-- GitHub streak (art arda katkı) -->
-![GitHub Streak](https://camo.githubusercontent.com/streakstats?user=devumituysal)
-
-
-
-<!-- Profil görüntülenme sayacı -->
-<img src="https://komarev.com/ghpvc/?username=devumituysal&label=PROFILE+VIEWS&color=blueviolet&style=flat" />
-
-<!-- GitHub Trophy -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=devumituysal&theme=onestar&margin-w=15)
-
-<!-- Typing effect -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hoş+Geldiniz!;Ben+Ümit+Uysal;Backend+Developer;Algoritmik+Ticaret+Bot+Geliştirici)
+**Social**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-ümit-uysal-955679353/)
 
