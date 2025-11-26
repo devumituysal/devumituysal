@@ -1,4 +1,5 @@
-# 👋 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%C3%9Cmit+Uysal&font=Fira+Code&size=24&pause=1000&color=2F2F2F&center=false&width=300&height=40)
+# 👋 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi!+I'm+%C3%9Cmit+Uysal&font=Fira+Code&size=24&pause=1000&color=2F2F2F&center=false&width=350&height=40)
+
 
 
 
