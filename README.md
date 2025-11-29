@@ -43,6 +43,5 @@ This profile is designed to share the projects I've created with the technologie
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devumituysal&show_icons=true&theme=radical)
 
 
