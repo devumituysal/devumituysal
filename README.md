@@ -1,4 +1,9 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi!+I'm+%C3%9Cmit+Uysal&font=Fira+Code&size=24&pause=1000&color=2F2F2F&center=false&width=350&height=40)
+<picture>
+  <!-- dark theme -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?lines=Hi!+I'm+%C3%9Cmit+Uysal&font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=false&width=350&height=40">
+  <!-- light theme (fallback) -->
+  <img alt="Hi! I'm Ümit Uysal" src="https://readme-typing-svg.herokuapp.com?lines=Hi!+I'm+%C3%9Cmit+Uysal&font=Fira+Code&size=24&pause=1000&color=2F2F2F&center=false&width=350&height=40">
+</picture>
 
 
 
