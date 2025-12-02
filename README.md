@@ -43,8 +43,8 @@ Currently, I mainly work with **ASP.NET Core**, **C#**, **JavaScript**, **HTML/C
 
 ---
 
-## 🙌 Note
-This profile is designed to share the projects I've created with the technologies I've learned, track my growth, and showcase my experiences while learning new things.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devumituysal&show_icons=true&count_private=true&theme=github-light)
+
 
 ---
 
