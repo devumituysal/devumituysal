@@ -43,7 +43,8 @@ Currently, I mainly work with **ASP.NET Core**, **C#**, **JavaScript**, **HTML/C
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devumituysal&show_icons=true&count_private=true&theme=github-light)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)](https://github.com/YOUR_USERNAME)
+``` :contentReference[oaicite:2]{index=2}  
 
 
 ---
